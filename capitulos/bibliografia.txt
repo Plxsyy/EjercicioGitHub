@@ -1,1 +1,3 @@
+
 a. Chacon, S. and straub, B.Pro Git.Apress
+b. Ryan hodson. RY,s Git tutorial Smashwords (2014)
