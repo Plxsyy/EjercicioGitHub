@@ -1,2 +1,8 @@
+
 a. Chacon, S. and straub, B.Pro Git.Apress
+<<<<<<< HEAD
 b. Loeliger, J. and McCullough, M. Version contro with Git o,Reilly
+c.Hodson, R. Ry,s Git Tutorial. Smashwords (2014)
+=======
+b. Ryan hodson. RY,s Git tutorial Smashwords (2014)
+>>>>>>> bibliografia
