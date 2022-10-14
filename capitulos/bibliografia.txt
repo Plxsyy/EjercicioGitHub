@@ -1,1 +1,2 @@
 a. Chacon, S. and straub, B.Pro Git.Apress
+b. Loeliger, J. and McCullough, M. Version contro with Git o,Reilly
